@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=8lueroset&show_icons=true&hide_border=true)](https://github.com/8luerose)
+[![github stats](https://github-readme-stats.vercel.app/api?username=8luerose&show_icons=true&hide_border=true)](https://github.com/8luerose)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8luerose&layout=compact)](https://github.com/8luerose)
 
 
