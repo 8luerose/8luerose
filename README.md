@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=8luerose&show_icons=true&hide_border=true)](https://github.com/8luerose)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8luerose&layout=compact)](https://github.com/8luerose)
 
+
+
+<br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj1dwj1b003008jtq82xumjr/stats?cursusId=21&coalitionId=86" alt="taehkwon's 42 stats" /></a> <br>
 
