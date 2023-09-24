@@ -24,6 +24,7 @@
   
 ## other careers
 
+<br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj1dwj1b003008jtq82xumjr/stats?cursusId=21&coalitionId=86" alt="taehkwon's 42 stats" /></a> <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8luerose)](https://hits.seeyoufarm.com)
 
 
