@@ -1,29 +1,29 @@
-### 안녕하세요 성장하는 개발자 8luerose 입니다.👋
+### 🌲 Traces
+<div>2020.03 ~ 2023.02 세종대학교</div>
+<div>2022.03 ~ 2023.09 세종대학교 UMC 2기 백엔드</div>
+<div>2023.01 ~         과학기술정보통신부 산하 이노베이션 아카데미 42 SEOUL </div>
+<div>2023.06 ~         탁구 플랫폼 서비스 42GG 백엔드</div>
+<br><br>
+
+### 🧑🏻‍💻 I’m currently learning
+<br>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-FF6A00?style=for-the-badge&logo=JAVA&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/seoul-000000?style=for-the-badge&logo=42&logoColor=white">
+<br><br>
+  
+### other careers
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8luerose)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj1dwj1b003008jtq82xumjr/stats?cursusId=21&coalitionId=86" alt="taehkwon's 42 stats" /></a> <br>
-
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=8luerose&show_icons=true&hide_border=true)](https://github.com/8luerose)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8luerose&layout=compact)](https://github.com/8luerose)
-
-
-
 
