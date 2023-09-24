@@ -6,7 +6,7 @@
 <br><br>
 
 ### 🧑🏻‍💻 I’m currently learning
-<br>
+<div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FF6A00?style=for-the-badge&logo=JAVA&logoColor=white">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/seoul-000000?style=for-the-badge&logo=42&logoColor=white">
+</div>
 <br><br>
   
 ### other careers
